@@ -1,4 +1,4 @@
-# Concurrency_project_python_Uday
+# Concurrency_project_python_Uady
 Spanish ---------------------------------------------
 
 (synchronous) Multitarea cooperativa  	1CPU

@@ -14,4 +14,4 @@ class MediaDownloadSynchronous(MediaDownload, ABC):
     def download_all_sites(self, sites):
         with requests.Session() as session:
             for url in sites:
-                MediaDownloadSynchronous.download_site(url, session)
+                self.download_site(url, session)
